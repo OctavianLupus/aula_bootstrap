@@ -1,16 +1,18 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: font-family: century-gothic, sans-serif;
     font-size: 20px;
 }
 
 .navbar {
-    background-color: #A3E4D7
-
+    background-color: #272121;
+    
+    
+    
 }
 
-.quem_somos {
-    background-color: #e5e5e8;
-    color: #616A6B;
+.devilarms {
+    background-color: #646b72;
+    color: #000;
 
 }
 
@@ -19,14 +21,15 @@ body {
     padding-top: 10px;
 }
 
-.parceiros {
+.characters {
     background-color: #CCD1D1;
 }
 
-.serviços {
+.items {
     background-color:  #e5e5e8;
 }
 
 .bg-footer {
-    background-color: #CCD1D1;
+    background-color: #000;
+    color: white 
 }
